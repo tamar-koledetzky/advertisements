@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\common\\entities\\addto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|solutionrelative:common\\entities\\addto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\Migrations\\20240602225433_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MockContext\\Migrations\\20240602225433_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\mockcontext\\migrations\\20240602225230_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|solutionrelative:mockcontext\\migrations\\20240602225230_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\mockcontext\\mockcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|solutionrelative:mockcontext\\mockcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\common\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49336A3-1E9A-4D82-BD78-7DEEB0FCFDCF}|Common\\Common.csproj|solutionrelative:common\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\entities\\wordcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\wordcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\newsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|solutionrelative:newsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\newsproject\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|solutionrelative:newsproject\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\newsproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|solutionrelative:newsproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\newsproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C300E-2BA0-49DF-9C89-301A5573453E}|NewsProject\\NewsProject.csproj|solutionrelative:newsproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\algoritim\\implement\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\algoritim\\implement\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\algoritim\\interface\\ialgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\algoritim\\interface\\ialgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\algoritim\\implement\\comparisonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\algoritim\\implement\\comparisonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\services\\adservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\services\\adservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\interfaces\\iadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\service\\connected services\\servicereference1\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F47346D2-D468-4899-B61C-015D7D47B419}|Service\\Service.csproj|solutionrelative:service\\connected services\\servicereference1\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\repository\\wordcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\wordcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\repository\\adrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\adrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\repository\\interfaces\\iad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94DEF7-2CD0-435E-AB69-549BE483E8CF}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\c#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\newsproject\\mockcontext\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4960CF-54FA-497E-9518-BDE068BC935C}|MockContext\\MockContext.csproj|solutionrelative:mockcontext\\mydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240602225433_init22.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\Migrations\\20240602225433_init22.cs",
+              "RelativeDocumentMoniker": "MockContext\\Migrations\\20240602225433_init22.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\Migrations\\20240602225433_init22.cs",
+              "RelativeToolTip": "MockContext\\Migrations\\20240602225433_init22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:54:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240602225230_init2.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\Migrations\\20240602225230_init2.cs",
+              "RelativeDocumentMoniker": "MockContext\\Migrations\\20240602225230_init2.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\Migrations\\20240602225230_init2.cs",
+              "RelativeToolTip": "MockContext\\Migrations\\20240602225230_init2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:54:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockContext",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\MockContext.csproj",
+              "RelativeDocumentMoniker": "MockContext\\MockContext.csproj",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\MockContext.csproj",
+              "RelativeToolTip": "MockContext\\MockContext.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T22:50:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Program.cs",
+              "RelativeDocumentMoniker": "NewsProject\\Program.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Program.cs",
+              "RelativeToolTip": "NewsProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:48:07.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\AdController.cs",
+              "RelativeDocumentMoniker": "NewsProject\\Controllers\\AdController.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\AdController.cs",
+              "RelativeToolTip": "NewsProject\\Controllers\\AdController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:44:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdDto.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Entities\\AdDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\AdDto.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Entities\\AdDto.cs",
+              "RelativeToolTip": "Common\\Entities\\AdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:17:59.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Ad.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Ad.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Ad.cs",
+              "RelativeToolTip": "Repository\\Entities\\Ad.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:38:35.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Category.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Category.cs",
+              "RelativeToolTip": "Repository\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:01.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Word.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\Word.cs",
+              "RelativeToolTip": "Repository\\Entities\\Word.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordCategory.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\WordCategory.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\WordCategory.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Entities\\WordCategory.cs",
+              "RelativeToolTip": "Repository\\Entities\\WordCategory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Entities\\UserDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\UserDto.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Entities\\UserDto.cs",
+              "RelativeToolTip": "Common\\Entities\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:05:31.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:05:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "NewsProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "NewsProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:44:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Algo.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Implement\\Algo.cs",
+              "RelativeDocumentMoniker": "Service\\Algoritim\\Implement\\Algo.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Implement\\Algo.cs",
+              "RelativeToolTip": "Service\\Algoritim\\Implement\\Algo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC0BAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:41:35.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Services\\AdService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AdService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Services\\AdService.cs",
+              "RelativeToolTip": "Service\\Services\\AdService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:51.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComparisonResult.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Implement\\ComparisonResult.cs",
+              "RelativeDocumentMoniker": "Service\\Algoritim\\Implement\\ComparisonResult.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Implement\\ComparisonResult.cs",
+              "RelativeToolTip": "Service\\Algoritim\\Implement\\ComparisonResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:08:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAlgo.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Interface\\IAlgo.cs",
+              "RelativeDocumentMoniker": "Service\\Algoritim\\Interface\\IAlgo.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Algoritim\\Interface\\IAlgo.cs",
+              "RelativeToolTip": "Service\\Algoritim\\Interface\\IAlgo.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwvw4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:08:33.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NewsProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\NewsProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NewsProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:30:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAdService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\IAdService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAdService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Interfaces\\IAdService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:43.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "RelativeDocumentMoniker": "Service\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "RelativeToolTip": "Service\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T21:07:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WordRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\WordRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\WordRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\WordRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\WordRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:16.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WordCategoryRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\WordCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\WordCategoryRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\WordCategoryRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\WordCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:07:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\AdRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\AdRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\AdRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\AdRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:27.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:24.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILogin.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:16.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAd.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IAd.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IAd.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Interfaces\\IAd.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IAd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:06:14.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyDataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\MyDataContext.cs",
+              "RelativeDocumentMoniker": "MockContext\\MyDataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\MockContext\\MyDataContext.cs",
+              "RelativeToolTip": "MockContext\\MyDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:05:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Repository\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:57:55.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\UserService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D3\\C#\u002B\u002B\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\project\\verson8\\NewsProject\\Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Service\\Services\\UserService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:57:24.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

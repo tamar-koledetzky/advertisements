@@ -1,0 +1,170 @@
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockCont.E2F038C1.Up2Date
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockCont.E2F038C1.Up2Date
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockCont.E2F038C1.Up2Date
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\MockContext.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\MockContext.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\MockContext\obj\Debug\net6.0\ref\MockContext.dll

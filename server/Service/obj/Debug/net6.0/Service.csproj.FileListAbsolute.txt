@@ -1,0 +1,170 @@
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\version2\פרויקט5\NewsProject\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\version6\NewsProject\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson77\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Common.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\verson7\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Common.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+D:\תכנות יד\C#++\עבודות\project\verson8\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Service.deps.json
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Repository.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Common.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\bin\Debug\net6.0\Repository.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\refint\Service.dll
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\Service.pdb
+L:\שנה ב\משרד החינוך\לינוי גפני\C#++\עבודות\project\verson9\NewsProject\Service\obj\Debug\net6.0\ref\Service.dll

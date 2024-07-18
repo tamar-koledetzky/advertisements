@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\NewsProject\\NewsProject.csproj": {}
+  },
+  "projects": {
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\MockContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\MockContext.csproj",
+        "projectName": "MockContext",
+        "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\MockContext.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\NewsProject\\NewsProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\NewsProject\\NewsProject.csproj",
+        "projectName": "NewsProject",
+        "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\NewsProject\\NewsProject.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\NewsProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\MockContext.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\MockContext\\MockContext.csproj"
+              },
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\Service.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\Common.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Common\\Common.csproj"
+              },
+              "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\משרד החינוך\\לינוי גפני\\C#++\\עבודות\\project\\verson9\\NewsProject\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Google.Cloud.Translation.V2": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.60, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
